@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/-React-Js-Git-engine/static/css/main.a0c2f870.chunk.css",
+    "main.js": "/-React-Js-Git-engine/static/js/main.a927edc6.chunk.js",
+    "main.js.map": "/-React-Js-Git-engine/static/js/main.a927edc6.chunk.js.map",
+    "runtime-main.js": "/-React-Js-Git-engine/static/js/runtime-main.c5102a43.js",
+    "runtime-main.js.map": "/-React-Js-Git-engine/static/js/runtime-main.c5102a43.js.map",
+    "static/js/2.473b00c1.chunk.js": "/-React-Js-Git-engine/static/js/2.473b00c1.chunk.js",
+    "static/js/2.473b00c1.chunk.js.map": "/-React-Js-Git-engine/static/js/2.473b00c1.chunk.js.map",
+    "index.html": "/-React-Js-Git-engine/index.html",
+    "precache-manifest.5bf2b5f40cf2d7b2ee007c8de4df45cc.js": "/-React-Js-Git-engine/precache-manifest.5bf2b5f40cf2d7b2ee007c8de4df45cc.js",
+    "service-worker.js": "/-React-Js-Git-engine/service-worker.js",
+    "static/css/main.a0c2f870.chunk.css.map": "/-React-Js-Git-engine/static/css/main.a0c2f870.chunk.css.map",
+    "static/js/2.473b00c1.chunk.js.LICENSE.txt": "/-React-Js-Git-engine/static/js/2.473b00c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5102a43.js",
+    "static/js/2.473b00c1.chunk.js",
+    "static/css/main.a0c2f870.chunk.css",
+    "static/js/main.a927edc6.chunk.js"
+  ]
+}
